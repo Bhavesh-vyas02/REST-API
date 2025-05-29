@@ -22,7 +22,7 @@ A simple REST API for managing books built with Node.js and Express.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Bhavesh-vyas02/REST-API.git
 cd books-api
 ```
 
